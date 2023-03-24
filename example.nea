@@ -1,0 +1,8 @@
+const smallEdge = 3.14159;
+var largeEdge = 6;
+var area = smallEdge * largeEdge;
+if (area > 18) {
+    print("The area is large.");
+} else {
+    print("The area is small.");
+}
