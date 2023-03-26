@@ -1,3 +1,4 @@
+// Necati Boga,Arjin Ates, A.Ege Ozceylan, M.Enes Onal
 const smallEdge = 3.14159;
 var largeEdge = 6;
 var area = smallEdge * largeEdge;
