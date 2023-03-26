@@ -1,0 +1,10 @@
+// Muhammed Enes Önal
+var numberOne = 24;
+var numberTwo = 96
+
+//if statement
+if(numberOne > numberTwo){
+    print("NumberOne is greater than numberTwo);
+}else{
+    print("NumberOne is smaller than numberTwo);
+}
