@@ -52,6 +52,8 @@
 ")"                     return RROUND;
 "["                     return LBRACKET;
 "]"                     return RBRACKET;
+">"                     return GREATER;
+"<"                     return LESS;
 true|false              return BOOLEAN;
 "exit"                  return EXIT;
 "\n"                    {yylineno++;}    

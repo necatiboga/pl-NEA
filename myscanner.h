@@ -44,10 +44,12 @@
 #define RROUND 44 
 #define LBRACKET 45
 #define RBRACKET 46
-#define BOOLEAN 47
-#define INTEGER 48
-#define DOUBLE 49
-#define STRING 50
-#define EXIT 51
+#define GREATER 47
+#define LESS 48
+#define BOOLEAN 49
+#define INTEGER 50
+#define DOUBLE 51
+#define STRING 52
+#define EXIT 53
 
 

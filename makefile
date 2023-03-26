@@ -1,7 +1,7 @@
 
-myprog: nea.l
-	lex nea.l
-	gcc -o myprog lex.yy.c -ll
+myprog: anea.l
+	lex anea.l
+	gcc myscanner.c lex.yy.c -o myprog
 
 clean:
 	rm myprog lex.yy.c
