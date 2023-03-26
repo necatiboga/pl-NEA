@@ -1,4 +1,4 @@
-# Programming Language Mrt  
+# Programming Language ANEA  
 Group Members: Necati Boğa, Ali Ege Özceylan, Arjin Ateş, Enes Önal
 
 ## Syntax
