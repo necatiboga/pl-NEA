@@ -63,7 +63,8 @@ The language appears to be a C-like imperative programming language with the fol
 -The ability to define and call functions.  
   
 Overall, the language appears to be designed for writing general-purpose programs that can perform arithmetic operations, make decisions based on conditions, and repeat a set of instructions while a condition is met. It also provides basic input/output operations and the ability to define and call functions to modularize code...
-  
+ 
+ ## Usage 
 - You can run your program by running the makefile and giving it to myprog as input:  
   
 make
