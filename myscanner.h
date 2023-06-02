@@ -51,5 +51,3 @@
 #define DOUBLE 51
 #define STRING 52
 #define EXIT 53
-
-

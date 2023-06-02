@@ -2,6 +2,7 @@
 #include "myscanner.h"
 
 extern int yylex();
+extern int yyparse();
 extern int yylineno;
 extern char* yytext;
 
