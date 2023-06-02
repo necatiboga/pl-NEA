@@ -1,7 +1,9 @@
 
 myprog: anea.l
 	lex anea.l
-	gcc myscanner.c lex.yy.c -o myprog
+	yacc -d myparser.y
+	gcc lex.yy.c y.tab.c -o myprog 
 
 clean:
 	rm myprog lex.yy.c
+	rm myprog y.tab.c
