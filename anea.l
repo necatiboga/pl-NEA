@@ -1,6 +1,7 @@
 %{
     #include <stdio.h>
     #include "myscanner.h"
+    void yyerror(const char *s);
 %}
 
 %%
